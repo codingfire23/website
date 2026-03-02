@@ -30,7 +30,7 @@ let stories = [
     "even with bad encryption :sob",
     "svelte = vibecoded and bad encryption - random gtag kids",
     "OpenGL Error: 1281 (Invalid value)",
-    "Respectfully, you don't need consent to call someone a larp."
+    "Respectfully, you don't need consent to call someone a larp.",
     "Ppl: hearing this song: Thats creepy!", 
     "Me: Holding two knifes in each hand and dancin like a creep who wanna kill everyone xDDD",
     "96% of devs will skid, are you the 2%?",
