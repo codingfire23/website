@@ -1,11 +1,11 @@
-/* i don care if she 14 15 */
+
 @font-face {
   font-family: proggy;
   src: url(proggy.ttf);
 }
 
 :root {
-    --accent: #8080FF;
+    --accent: #FFFFFF;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 a { color: var(--accent); }
-a:hover { color: #ababff; }
+a:hover { color: #C8C8C8; }
 
 #title { cursor: pointer; }
 #title:hover { color: #ababff; }
