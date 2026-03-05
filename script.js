@@ -61,7 +61,18 @@ let stories = [
     "how many dash orb",
     "yo fone longing",
     "cool pink car",
-    "the deep"
+    "the deep",
+    "Plug walk", 
+    "The Great Meme Reset", 
+    "Silent Lurker",
+    "tylerhuelat.xyz",
+    "Connection Lost: BLOCKSMC",
+    "ahh liquidsiquid",
+    "bluey777 vs Larry: who is better at orbit",
+    "INDIA HACK GANG",
+    "visor's visor",
+    "PG Clubstairs",
+    "No bad word"
 ]
 
 let currentIndex = stories.length;
