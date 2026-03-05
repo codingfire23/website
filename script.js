@@ -53,7 +53,15 @@ let stories = [
     "Removed The Cojingahack",
     "SYSTEM@Giggle -> ban all",
     "ur cheat indicator is purple",
-    "are you sure you wanna party with the demons?"
+    "are you sure you wanna party with the demons?", 
+
+    "Indians lurk within...",
+    "you have been warned, there is nowhere to run",
+    "how many mirror portal",
+    "how many dash orb",
+    "yo fone longing",
+    "cool pink car",
+    "the deep"
 ]
 
 let currentIndex = stories.length;
