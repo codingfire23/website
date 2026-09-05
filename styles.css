@@ -1,6 +1,6 @@
 @font-face {
   font-family: outfitregular;
-  src: url(.ttf);
+  src: url(outfitregular.ttf);
 }
 
 :root {
