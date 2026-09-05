@@ -1,0 +1,16 @@
+@font-face {
+  font-family: outfitregular;
+  src: url(.ttf);
+}
+
+:root {
+    --accent: #FFFFFF;
+}
+
+body {
+    font-family: outfitregular, Arial, sans-serif;
+    background-color: #191919;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
